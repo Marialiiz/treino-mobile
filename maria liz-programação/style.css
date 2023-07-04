@@ -6,6 +6,7 @@
     --laranja:#EB9B00;
     --azul-degrade:#0c2c85;
     --fonte-principal:"poppins";
+    --fonte-secundario:"josefin sans";
 }
 body{
     background-color: var(--cor-de-fundo);
