@@ -2,9 +2,9 @@
 @import url("style/banner.css");
 :root{
     --cor-de-fundo:#EBECEE;
-    --branco:#FFFFFF;
+    --branco:#ffffff;
     --laranja:#EB9B00;
-    --azul-degrade:#0c2c85;
+    --azul-degrade:#f26868;
     --fonte-principal:"poppins";
     --fonte-secundario:"josefin sans";
 }
@@ -14,3 +14,4 @@ body{
     font-size: 16px;
     font-weight: 400;
 }
+
